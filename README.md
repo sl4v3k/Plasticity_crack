@@ -1,4 +1,4 @@
-# Plasticity 1.4.10
+# Plasticity
 
 There are several ways to unlock trial version of Plasticity app. Mainly about how to bypass:
     - AES-GCM licence encryption,
