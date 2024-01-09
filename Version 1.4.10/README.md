@@ -109,8 +109,8 @@ pk.node module from D:\Plasticity\app-1.4.10\resources\app\.webpack\renderer
 # Method
 
 Just put atached files:
-    - libcrypto-1_1-x64.dll
-    - plasticity_patcher.dll
+* libcrypto-1_1-x64.dll
+* plasticity_patcher.dll
 to D:\Plasticity\app-1.4.10\resources\app\.webpack\renderer directory
 
 plasticity_patcher.dll is just inmemory patcher that will do all job for You!
