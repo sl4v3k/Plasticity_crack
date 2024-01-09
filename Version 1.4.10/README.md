@@ -1,9 +1,13 @@
 # Plasticity 1.4.10
 
 Mainly is about ptching pk.node and change instruction:
-```.text:00000001800701E9 48 C7 47 08 00 00 00 00                 mov     qword ptr [rdi+8], 0 ;```
+```
+.text:00000001800701E9 48 C7 47 08 00 00 00 00                 mov     qword ptr [rdi+8], 0 ;
+```
 to
-```.text:00000001800701E9 48 C7 47 08 01 00 00 00                 mov     qword ptr [rdi+8], 1 ;```
+```
+.text:00000001800701E9 48 C7 47 08 01 00 00 00                 mov     qword ptr [rdi+8], 1 ;
+```
 
 Check closer below code.
 
