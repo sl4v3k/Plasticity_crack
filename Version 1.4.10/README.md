@@ -9,7 +9,7 @@ to
 .text:00000001800701E9 48 C7 47 08 01 00 00 00                 mov     qword ptr [rdi+8], 1 ;
 ```
 
-Check closer below code.
+Check closer below code. This function is checking if "STUDIO_FEATURES" are granted. Normally with trial license only "TRIAL_FEATURES" are granted.
 
 pk.node module from D:\Plasticity\app-1.4.10\resources\app\.webpack\renderer
 ```
