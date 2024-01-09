@@ -80,7 +80,7 @@ pk.node module from D:\Plasticity\app-1.4.10\resources\app\.webpack\renderer
 .text:00000001800701E6
 .text:00000001800701E6                         loc_1800701E6:                          ; CODE XREF: sub_180070140+92↑j
 .text:00000001800701E6 48 89 1F                                mov     [rdi], rbx
-**.text:00000001800701E9 48 C7 47 08 00 00 00 00                 mov     qword ptr [rdi+8], 0 ;    <----------------- put 1 here, change 00 00 00 00 to 01 00 00 00**
+*.text:00000001800701E9 48 C7 47 08 00 00 00 00                 mov     qword ptr [rdi+8], 0 ;    <----------------- put 1 here, change 00 00 00 00 to 01 00 00 00*
 .text:00000001800701F1
 .text:00000001800701F1                         loc_1800701F1:                          ; CODE XREF: sub_180070140+A4↑j
 .text:00000001800701F1 48 8B 6C 24 40                          mov     rbp, [rsp+38h+arg_0]
