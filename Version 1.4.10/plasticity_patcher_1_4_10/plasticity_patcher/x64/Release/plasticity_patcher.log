@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\DATA\github-VSCode\Plasticity_crack\Version 1.4.10\plasticity_patcher_1_4_10\x64\Release\plasticity_patcher.lib and object C:\DATA\github-VSCode\Plasticity_crack\Version 1.4.10\plasticity_patcher_1_4_10\x64\Release\plasticity_patcher.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  plasticity_patcher.vcxproj -> C:\DATA\github-VSCode\Plasticity_crack\Version 1.4.10\plasticity_patcher_1_4_10\x64\Release\plasticity_patcher.dll
