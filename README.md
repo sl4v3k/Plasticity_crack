@@ -15,3 +15,6 @@ Just put atached files:
 * plasticity_patcher.dll
 
 to D:\Plasticity\app-1.4.10\resources\app\.webpack\renderer directory
+
+# VC Redistributables
+Dont forget install VC 2019 Redistributables from Microsoft
